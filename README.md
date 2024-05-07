@@ -16,9 +16,9 @@ An experimental project to reproduce the soul shader in Unreal 5
 
 # Materials
 
-- All mesh realted materials are located inside the Geometry folder within the respective Mesh and Blueprints
+- All mesh related materials are located inside the **geometry** folder within the respective meshes and blueprints
 
-- All Shared materials and post processing are located inside the Materials folder in the Contents
+- All shared materials and post processing are located inside the materials folder inside the contents
 
 # Licence
 
