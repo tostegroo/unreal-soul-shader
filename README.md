@@ -6,12 +6,12 @@ An experimental project to reproduce the soul shader in Unreal 5
 
 # Maps
 
-- **Soul.map (incomplete)**
-  Enviroenment set for testing
+- **Soul.map (incomplete)**<br>
+  Environment set for testing
 
 <br>
 
-- **souls_place.map**
+- **souls_place.map**<br>
   Placement for the assets using the postprocessing effect
 
 # Materials
