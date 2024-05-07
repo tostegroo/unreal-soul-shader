@@ -6,8 +6,8 @@ An experimental project to reproduce the soul shader in Unreal 5
 
 # Maps
 
-- **Soul.map (imcomplete)**
-  used to place a scene like the enviroenment in the Soul movie
+- **Soul.map (incomplete)**
+  Enviroenment set for testing
 
 <br>
 
